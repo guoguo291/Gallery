@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="img_des">photo</string>
+    <string name="str_refresh">swipe to refresh</string>
+</resources>
